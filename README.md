@@ -17,3 +17,5 @@ No sequences, keyboard runs, repeats or years
 More than one kind of character( symbols, number,upper and lowercase)
 # it give you a generated version following the above rule
 [x] a–z [x] A–Z [x] 0–9 [x] Symbols
+
+**author: nicholas kiptoo**
